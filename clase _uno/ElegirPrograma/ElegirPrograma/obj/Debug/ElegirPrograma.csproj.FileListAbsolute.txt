@@ -1,0 +1,6 @@
+C:\Users\Hero\Documents\C#\ElegirPrograma\ElegirPrograma\bin\Debug\ElegirPrograma.exe.config
+C:\Users\Hero\Documents\C#\ElegirPrograma\ElegirPrograma\bin\Debug\ElegirPrograma.exe
+C:\Users\Hero\Documents\C#\ElegirPrograma\ElegirPrograma\bin\Debug\ElegirPrograma.pdb
+C:\Users\Hero\Documents\C#\ElegirPrograma\ElegirPrograma\obj\Debug\ElegirPrograma.exe
+C:\Users\Hero\Documents\C#\ElegirPrograma\ElegirPrograma\obj\Debug\ElegirPrograma.pdb
+C:\Users\Hero\Documents\C#\ElegirPrograma\ElegirPrograma\obj\Debug\ElegirPrograma.csproj.CoreCompileInputs.cache
