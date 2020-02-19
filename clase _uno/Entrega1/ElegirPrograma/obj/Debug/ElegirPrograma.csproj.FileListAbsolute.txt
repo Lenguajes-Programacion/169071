@@ -1,0 +1,13 @@
+C:\Users\Hero\Documents\C#\ElegirPrograma\ElegirPrograma\bin\Debug\ElegirPrograma.exe.config
+C:\Users\Hero\Documents\C#\ElegirPrograma\ElegirPrograma\bin\Debug\ElegirPrograma.exe
+C:\Users\Hero\Documents\C#\ElegirPrograma\ElegirPrograma\bin\Debug\ElegirPrograma.pdb
+C:\Users\Hero\Documents\C#\ElegirPrograma\ElegirPrograma\obj\Debug\ElegirPrograma.exe
+C:\Users\Hero\Documents\C#\ElegirPrograma\ElegirPrograma\obj\Debug\ElegirPrograma.pdb
+C:\Users\Hero\Documents\C#\ElegirPrograma\ElegirPrograma\obj\Debug\ElegirPrograma.csprojResolveAssemblyReference.cache
+C:\Users\Hero\Documents\C#\ElegirPrograma\ElegirPrograma\obj\Debug\ElegirPrograma.csproj.CoreCompileInputs.cache
+E:\6to Semestre\Lenguajes de programacion\169071\clase _uno\ElegirPrograma - Copy\ElegirPrograma\bin\Debug\ElegirPrograma.exe.config
+E:\6to Semestre\Lenguajes de programacion\169071\clase _uno\ElegirPrograma - Copy\ElegirPrograma\bin\Debug\ElegirPrograma.exe
+E:\6to Semestre\Lenguajes de programacion\169071\clase _uno\ElegirPrograma - Copy\ElegirPrograma\bin\Debug\ElegirPrograma.pdb
+E:\6to Semestre\Lenguajes de programacion\169071\clase _uno\ElegirPrograma - Copy\ElegirPrograma\obj\Debug\ElegirPrograma.csprojAssemblyReference.cache
+E:\6to Semestre\Lenguajes de programacion\169071\clase _uno\ElegirPrograma - Copy\ElegirPrograma\obj\Debug\ElegirPrograma.exe
+E:\6to Semestre\Lenguajes de programacion\169071\clase _uno\ElegirPrograma - Copy\ElegirPrograma\obj\Debug\ElegirPrograma.pdb
